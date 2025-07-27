@@ -5,6 +5,9 @@ Predict student marks based on:
 - Age
 - Internet access
 
+# Direct Link/Web app
+- https://student-performance-predictor-4zui.onrender.com/
+
 ## 🚀 How to Run
 
 ```bash
