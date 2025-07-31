@@ -6,6 +6,7 @@ A Flask-based web app that predicts student marks based on:
 - Internet access (yes/no)
 
 🚀 Live Demo: https://student-performance-predictor-4zui.onrender.com/
+
 📂 Dataset: Custom CSV with 200+ records
 
 ## 🧠 Machine Learning
